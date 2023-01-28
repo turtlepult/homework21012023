@@ -4,7 +4,7 @@ for (int i = 1; i<=n; i++)
 {
     int result = i * i * i;
     
-        if (result%2==0)
+        if (result%2==0) 
         {
             Console.WriteLine(result);
         }
